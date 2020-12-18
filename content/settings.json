@@ -1,0 +1,10 @@
+{
+  "title": "WovoPOS Documentation",
+  "url": "",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "wovosoft/bdpos-documentation",
+  "twitter": "@wovosoft"
+}
