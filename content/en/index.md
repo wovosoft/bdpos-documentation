@@ -1,8 +1,8 @@
 ---
 title: Introduction
-description: ''
+description: 'WovoPOS User Manual'
 position: 1
-category: ''
+category: 'Business Management Software'
 features:
   - Feature 1
   - Feature 2
@@ -15,9 +15,7 @@ features:
 [Module]() for [NuxtJS](https://nuxtjs.org).
 
 <alert type="success">
-
 Your documentation has been created successfully!
-
 </alert>
 
 ## Features
